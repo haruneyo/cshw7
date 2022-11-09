@@ -2,7 +2,7 @@
 FillArray(array, -10, 10);
 System.Console.WriteLine("The array is:");
 PrintArray(array);
-System.Console.WriteLine("Please enter the index (rows, collumns):");
+System.Console.WriteLine("Please enter the index (rows, columns):");
 System.Console.WriteLine(ArrayValueOfIndex(array)); // Returns the value of the given index, if applicable
 System.Console.WriteLine("Please enter the value:");
 System.Console.WriteLine(ArrayIndexOfValue(array)); // Returns the index of the given value, if applicable
